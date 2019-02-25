@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HelloWorld!11111122222222222dsfas
+=======
+HelloWorld!22222111
+>>>>>>> dev
